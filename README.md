@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Rituraj GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj17&show_icons=true&theme=radical)](https://github.com/rituraj17/github-readme-stats)
+[![Rituraj GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj17&show_icons=true&theme=radical&rank_icon=githu)](https://github.com/rituraj17/github-readme-stats)
 
 <!--
 **rituraj17/rituraj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
