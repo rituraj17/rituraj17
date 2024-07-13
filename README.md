@@ -15,6 +15,22 @@
 <summary><b>:zap: GitHub Profile Stat</b></summary>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rituraj17&show_icons=true" />
 </details>
+
+<div align="center" >
+<a  href="https://github.com/rituraj17">
+
+<img src="https://raw.githubusercontent.com/rituraj17/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/rituraj17/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/rituraj17/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/rituraj17/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
 <!-- <details> -->
 <!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
