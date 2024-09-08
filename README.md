@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Rituraj%20Kumar%20🚵‍♀️🧑‍💻&textBg=false&fontAlign=53&animation=twinkling)
+
+<!--## Hi there 👋
 <!-- [![Rituraj GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj17&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=github)](https://github.com/rituraj17/github-readme-stats)
 
 <!-- GitHub section -->
